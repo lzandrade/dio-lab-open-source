@@ -4,7 +4,9 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-Teste
+Teste (MAIS INFORMAÇOES)
+
+12343278934
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
